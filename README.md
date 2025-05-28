@@ -49,7 +49,7 @@ A simple **Linear Regression** model was trained on the cleaned dataset. Due to 
 ---
 
 ## 📊 Dataset
-- Source: [Kaggle - Used Car Price Prediction](https://www.kaggle.com/) *(insert exact link if available)*
+- Source: [Kaggle]
 
 ---
 
