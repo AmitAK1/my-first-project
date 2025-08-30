@@ -2,7 +2,7 @@
 
 This machine learning project predicts the resale price of used cars based on features like car name, company, year, kilometers driven, and fuel type. It is built using Python and linear regression, and aims to provide a simple and intuitive way to estimate car prices.
 
-# Live Demo : https://car-price-predictor-dst2q7rnylbxz63dnb2zsz.streamlit.app/ 
+## Live Demo : https://car-price-predictor-dst2q7rnylbxz63dnb2zsz.streamlit.app/ 
 ---
 
 ## 📦 Features Used
